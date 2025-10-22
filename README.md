@@ -1,17 +1,5 @@
 # CPANEL VPS 24x7
 
-File Name ``` spam.py ```
-
-24x7 Code ``` 
-import time
-
-while True:
-    print("HemantGamerzYT")
-    time.sleep(1) 
-    ```
-
- ``` python3 spam.py ```
-
 CPANEL Install ``` sudo apt update && sudo apt upgrade -y
 sudo apt install cockpit -y
 sudo systemctl enable --now cockpit.socket
@@ -65,6 +53,6 @@ VM File Name ``` dev.nix ```
 
 ``` bash <(curl -fsSL https://raw.githubusercontent.com/hopingboyz/vms/main/vm.sh) ```
 
-```  ```
+```  bash <(curl -s https://ptero.jishnu.fun)  ```
 
 

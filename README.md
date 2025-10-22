@@ -1,5 +1,16 @@
 # CPANEL VPS 24x7
 
+File Name ``` spam.py ```
+
+``` import time
+
+while True:
+    print("HemantGamerzYT")
+    time.sleep(1)
+ ```
+
+ ``` python3 spam.py ```
+
 CPANEL Install ``` sudo apt update && sudo apt upgrade -y
 sudo apt install cockpit -y
 sudo systemctl enable --now cockpit.socket

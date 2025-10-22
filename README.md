@@ -2,11 +2,13 @@
 
 File Name ``` spam.py ```
 
-24x7 Code ``` import time
+24x7 Code ``` 
+import time
 
 while True:
     print("HemantGamerzYT")
-    time.sleep(1) ```
+    time.sleep(1) 
+    ```
 
  ``` python3 spam.py ```
 
@@ -58,7 +60,8 @@ VM File Name ``` dev.nix ```
       enable = false;
     };
   };
-} ```
+} 
+```
 
 ``` bash <(curl -fsSL https://raw.githubusercontent.com/hopingboyz/vms/main/vm.sh) ```
 
